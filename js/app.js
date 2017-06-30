@@ -5,4 +5,5 @@ Object.defineProperty(exports, "__esModule", { value: true });
  */
 var test_1 = require("./model/test");
 var me = new test_1.Student("陶冶");
+me.eat("鱼");
 //# sourceMappingURL=app.js.map
